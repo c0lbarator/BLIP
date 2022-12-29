@@ -1,4 +1,4 @@
-image_root: '/export/share/datasets/vision/coco/images/'
+image_root: 'images/'
 ann_root: 'annotations'
 coco_gt_root: 'annotations'
 
