@@ -54,7 +54,7 @@ class coco_karpathy_caption_eval(Dataset):
         split (string): val or test
         '''
         
-        filenames = {'val':'twst.json','test':'test.json'}
+        filenames = {'val':'test.json','test':'test.json'}
         
         
         self.annotation = json.load(open(os.path.join(ann_root,filenames[split]),'r'))
