@@ -1,3 +1,8 @@
+How use it:
+1. Clone this repo
+2. Create annotations folder and paste train and test json files into it
+3. paste images dir in root
+4. All done! Start finetuning process
 ## BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 
 ## Announcement: BLIP is now officially integrated into [LAVIS](https://github.com/salesforce/LAVIS) - a one-stop library for language-and-vision research and applications!
