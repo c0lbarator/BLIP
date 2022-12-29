@@ -1,7 +1,7 @@
 How use it:
 1. Clone this repo
 2. Create annotations folder and paste train and test json files into it
-3. paste images dir in root
+3. paste [images](https:\/\/b1.thefileditch.ch\/vTCmCLUeTbKVsFgwldx.7z) dir in root
 4. All done! Start finetuning process
 ## BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 
